@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://olastervene.github.io/sitemap
+Sitemap: https://olastervene.github.io/app/sitemap
+Sitemap: https://olastervene.github.io/assets/sitemap
+Sitemap: https://olastervene.github.io/css/sitemap
+Sitemap: https://olastervene.github.io/includes/sitemap
+Sitemap: https://olastervene.github.io/item/sitemap
+Sitemap: https://olastervene.github.io/src/sitemap
